@@ -2,3 +2,13 @@
 
 /* Importing Bootstrap SCSS file. */
 @import '~bootstrap/scss/bootstrap';
+
+@font-face {
+    font-family: DMSans-Regular;
+    src: url('assets/fonts/DMSans-Regular.ttf');
+}
+
+@font-face {
+    font-family: DMSans-Bold;
+    src: url('assets/fonts/DMSans-Bold.ttf');
+}
