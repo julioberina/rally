@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rally"
+    }
+  },
+  "defaultProject": "rally",
+  "cli": {
+    "analytics": false
+  }
 }
